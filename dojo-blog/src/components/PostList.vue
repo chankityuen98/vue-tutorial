@@ -14,7 +14,7 @@ export default {
   props: ["posts"],
   components: { SinglePostVue },
   setup(props) {
-    console.log(props.posts);
+    // console.log(props.posts);
   },
 };
 </script>

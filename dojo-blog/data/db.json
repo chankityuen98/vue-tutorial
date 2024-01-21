@@ -1,0 +1,42 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "First Post",
+      "body": "This is the body of the first post. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "tags": [
+        "tag1",
+        "tag2",
+        "tag3"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Second Post",
+      "body": "Here is the body of the second post. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+      "tags": [
+        "tag2",
+        "tag4",
+        "tag5"
+      ]
+    },
+    {
+      "title": "tesst",
+      "body": "tasasdsa",
+      "tags": [
+        "asd",
+        "asdasd"
+      ],
+      "id": 3
+    },
+    {
+      "title": "tesst",
+      "body": "tasasdsa",
+      "tags": [
+        "asd",
+        "asdasd"
+      ],
+      "id": 4
+    }
+  ]
+}
